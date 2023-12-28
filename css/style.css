@@ -1,0 +1,205 @@
+/* common start  */
+body{
+     
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Sans' , sans-serif;
+    font-family: 'Roboto', sans-serif;;
+    font-size: 16px;
+    font-weight: 400;
+    color: #d2d2d2;
+}
+
+ 
+/* common end  */
+/* header start  */
+header{
+    background-color: #fff;
+    padding: 20px 0;
+
+}
+/* .container{
+    margin: 0 auto;
+    width: 80%;
+    border: 1px solid red;
+   
+} */
+.logo{
+    font-family: 'lato' , sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+.logo a{
+
+}
+.logo a img{}
+.menu{
+  
+}
+.menu ul{}
+.menu ul li {}
+.menu ul li a{
+    font-family: 'lato' , sans-serif;
+    padding: 0 20px !important;
+}
+.menu logo{}
+.menu logo img{}
+
+/* header end  */
+          /* banner start */
+
+.banner{
+    background-image: url(../img/Nipro\ Agency\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.b_content{
+
+    margin: 200px 0;
+    padding-right: px;
+    padding-left: px;
+}
+.p_con{
+
+   padding:  37px 50px;
+}
+.b_content h2{
+    color: #fff;
+}
+
+.b_content a{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 8px 5px;
+}
+
+.b_content a span {
+    color:black;
+}
+.p_con{
+    background-color: #fff;
+}
+.button{
+    text-decoration: none !important;
+}
+       /* banner end  */
+
+        /* paragraph start  */
+.c_h1{
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 400;
+    font-family: 'robot' , sans-serif;
+    color: #333333;
+} 
+.t_text{
+    padding-top: 35px;
+    padding-bottom: 100px;
+    line-height: 30px;
+}
+
+         /* paragraph end */
+       
+             /* box start   */
+.s_feature{
+    border: 2px solid#c7c3c3;
+    margin: px  ;
+}
+s_icon{
+    font-size: 40px;
+   
+}
+
+.s_h2{
+    padding-top: 20px;
+   
+    color:#333333
+
+}
+.s_p{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.s_a{
+    padding-bottom: 20px !important;
+    text-decoration: none;
+    color: #ddd;
+}
+
+                 /* box end  */
+                 /* about start */
+.t_img{
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+.t_text{
+
+}
+.btn_a{
+    text-decoration: none;
+    color: #333333;
+    border: 1px solid #ddd;
+}
+.s_icon{
+    font-size: 40px;
+}
+.s_h2{
+    padding-top: 20px;
+}
+                 /* about en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+                            </div>
+                        </div>
+                       
+                                </div>
+                            </div>
+ 
+
+                        </div>
+                        control start  -->
+                        <button type="button" >PREV</button>
+                        <span>
+                            <span>l</span>
+                            <span>l</span>
+                            <span>l</span>
+                        </span>
+
+                        <button type="button" >NEXT</button>
+                    </div>
+
+                    <!-- slider end
+                            

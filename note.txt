@@ -1,0 +1,7 @@
+color :333333
+       :d2d2d2
+       :e1e1e1
+       
+       font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
